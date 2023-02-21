@@ -19,4 +19,4 @@ I'm a computer science Ph.D student at The University of Nebraska-Lincoln. I am 
 
 My research interests include machine learning, computer vision, data analysis and visualization. Currently, my research mainly focus on 3D modeling, learning and its visualization through neural networks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](/cv.pdf)
