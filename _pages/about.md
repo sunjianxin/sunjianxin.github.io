@@ -43,23 +43,4 @@ My research interests include machine learning, computer vision, data analysis a
       </ul>
     </td>
   </tr>
-  <tr>
-    <td><img src="https://sunjianxin.github.io/assets/img/licor.jpeg" width=80 height=80></td>
-    <td>
-      <ul>
-  	<li>Licor, Design Software Engineer, Aug 2015 - May 2018</li>
-  	<li>Design Software Engineer, Aug 2015 - May 2018</li>
-      </ul>
-    </tb>
-  </tr>
-  <tr>
-    <td><img src="https://sunjianxin.github.io/assets/img/purdue.jpeg" width=80 height=80></td>
-    <td>
-      <ul>
-  	<li>Purdue University</li>
-  	<li>Research Assistaant, Aug 2012 - May 2015</li>
-	<li>Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)</li>
-      </ul>
-    </tb>
-  </tr>
 </tabkle>
