@@ -31,10 +31,8 @@ My research interests include machine learning, computer vision, data analysis a
   	<li>Research Assistant, Aug 2018 - Present</li>
 	<li>Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)</li>
       </ul>
+    </td>
   </tr>
- </table>
- 
- <table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://sunjianxin.github.io/assets/img/argonne.jpeg" width=100 height=100></td>
     <td>
@@ -43,10 +41,8 @@ My research interests include machine learning, computer vision, data analysis a
   	<li>Summer Research Assistant Intern, May 2021 - Dec 2021</li>
 	<li>Advisor: [Dr. Tom Peterka](https://www.anl.gov/profile/thomas-peterka)</li>
       </ul>
+    </td>
   </tr>
- </table>
- 
- <table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://sunjianxin.github.io/assets/img/licor.jpeg" width=100 height=100></td>
     <td>
@@ -54,10 +50,8 @@ My research interests include machine learning, computer vision, data analysis a
   	<li>Licor, Design Software Engineer, Aug 2015 - May 2018</li>
   	<li>Design Software Engineer, Aug 2015 - May 2018</li>
       </ul>
+    </tb>
   </tr>
- </table>
- 
-  <table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://sunjianxin.github.io/assets/img/purdue.jpeg" width=100 height=100></td>
     <td>
@@ -66,5 +60,6 @@ My research interests include machine learning, computer vision, data analysis a
   	<li>Research Assistaant, Aug 2012 - May 2015</li>
 	<li>Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)</li>
       </ul>
+    </tb>
   </tr>
- </table>
+</table>
