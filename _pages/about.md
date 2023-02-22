@@ -52,7 +52,6 @@ Licor
 Design Software Engineer, Aug 2015 - Aug 2018
 
 
-
 ---
 
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/purdue.jpeg">
@@ -62,6 +61,14 @@ Purdue University
 Research Assistant, Aug 2012 - May 2015
 
 Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
+
+---
+
+<img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/licor.jpeg">
+
+Purdue University
+
+Research Assistant, Aug 2012 - May 2015
 
 ---
 
