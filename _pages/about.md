@@ -65,7 +65,7 @@ Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
 ## Services
 ##### Journal Paper Reviewers
 
-Transactions on Visualization and Computer Graphics (TVCG), IEEE, 2021
+IEEE Transactions on Visualization and Computer Graphics (TVCG), 2021
 
 Big Data Research, 2021
 
