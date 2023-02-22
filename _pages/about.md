@@ -22,39 +22,49 @@ My research interests include machine learning, computer vision, data analysis a
 [Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](/cv.pdf)
 
 ## Experience
-
-<img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/unl.jpeg">University of Nebraska-Lincoln, Research Assistant, Aug 2018 - Present, Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/) <br />
-
-
-<div>
-<img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/argonne.jpeg">Argonne National Laboratory, Summer Research Assistant Intern, May 2021 - Dec 2021, Advisor: [Dr. Tom Peterka](https://www.anl.gov/profile/thomas-peterka)
-</div>
-
-<img align="left" width="50" height="50" src="https://sunjianxin.github.io/assets/img/licor.jpeg">
-Licor, Design Software Engineer, Aug 2015 - May 2018
-
-Purdue University, Research Assistaant, Aug 2012 - May 2015, Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
-
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://sunjianxin.github.io/assets/img/unl.jpeg" width=50 height=50></td>
+    <td><img src="https://sunjianxin.github.io/assets/img/unl.jpeg" width=100 height=100></td>
     <td>
       <ul>
   	<li>University of Nebraska-Lincoln</li>
-  	<li>Research Assistant</li>
-  	<li>Aug 2018 - Present</li>
+  	<li>Research Assistant, Aug 2018 - Present</li>
 	<li>Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)</li>
       </ul>
   </tr>
  </table>
-
-<table cellspacing="3" bgcolor="#000000">
-	<tr bgcolor="#ffffff">
-		<th>Header</th>
-		<th>Header</th>
-	</tr>
-	<tr bgcolor="#ffffff">
-		<td>Data</td>
-		<td>Data</td>
-	</tr>
-</table>
+ 
+ <table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://sunjianxin.github.io/assets/img/argonne.jpeg" width=100 height=100></td>
+    <td>
+      <ul>
+  	<li>Argonne National Laboratory</li>
+  	<li>Summer Research Assistant Intern, May 2021 - Dec 2021</li>
+	<li>Advisor: [Dr. Tom Peterka](https://www.anl.gov/profile/thomas-peterka)</li>
+      </ul>
+  </tr>
+ </table>
+ 
+ <table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://sunjianxin.github.io/assets/img/licor.jpeg" width=100 height=100></td>
+    <td>
+      <ul>
+  	<li>Licor, Design Software Engineer, Aug 2015 - May 2018</li>
+  	<li>Design Software Engineer, Aug 2015 - May 2018</li>
+      </ul>
+  </tr>
+ </table>
+ 
+  <table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://sunjianxin.github.io/assets/img/purdue.jpeg" width=100 height=100></td>
+    <td>
+      <ul>
+  	<li>Purdue University</li>
+  	<li>Research Assistaant, Aug 2012 - May 2015</li>
+	<li>Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)</li>
+      </ul>
+  </tr>
+ </table>
