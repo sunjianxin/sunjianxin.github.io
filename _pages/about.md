@@ -70,6 +70,8 @@ Purdue University
 
 Research Assistant, Aug 2012 - May 2015
 
+Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
+
 ---
 
 
