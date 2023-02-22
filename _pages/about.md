@@ -34,3 +34,16 @@ My research interests include machine learning, computer vision, data analysis a
 Licor, Design Software Engineer, Aug 2015 - May 2018
 
 Purdue University, Research Assistaant, Aug 2012 - May 2015, Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
