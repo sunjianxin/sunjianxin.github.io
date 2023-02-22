@@ -37,11 +37,7 @@ Purdue University, Research Assistaant, Aug 2012 - May 2015, Advisor: [Prof. Avi
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><p> sdfsfsf</p></td>
+    <td><img src="https://sunjianxin.github.io/assets/img/unl.jpeg" width=50 height=50></td>
+    <td><p>University of Nebraska-Lincoln, Research Assistant, Aug 2018 - Present, Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)</p></td>
   </tr>
  </table>
