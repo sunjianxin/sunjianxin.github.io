@@ -43,4 +43,4 @@ My research interests include machine learning, computer vision, data analysis a
       </ul>
     </td>
   </tr>
-</tabkle>
+</table>
