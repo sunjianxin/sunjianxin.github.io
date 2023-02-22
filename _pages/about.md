@@ -23,6 +23,9 @@ My research interests include machine learning, computer vision, data analysis a
 
 ## Experience
 University of Nebraska-Lincoln, Research Assistant, Aug 2018 - Present, Advisor: Dr. [Hongfeng Yu](https://cse.unl.edu/~yu/)
+
 Argonne National Laboratory, Summer Research Assistant Intern, May 2021 - Dec 2021, Advisor: [Dr. Tom Peterka](https://www.anl.gov/profile/thomas-peterka)
+
 Licor, Design Software Engineer, Aug 2015 - May 2018
+
 Purdue University, Research Assistaant, Aug 2012 - May 2015, Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
