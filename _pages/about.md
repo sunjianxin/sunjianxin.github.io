@@ -47,7 +47,7 @@ Advisor: [Dr. Tom Peterka](https://www.anl.gov/profile/thomas-peterka)
 
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/licor.jpeg">
 
-Licor
+Li-cor
 
 Design Software Engineer
 
