@@ -24,7 +24,7 @@ My research interests include machine learning, computer vision, data analysis a
 ## Experience
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://sunjianxin.github.io/assets/img/unl.jpeg" width=100 height=100></td>
+    <td><img src="https://sunjianxin.github.io/assets/img/unl.jpeg" width=80 height=80></td>
     <td>
       <ul>
   	<li>University of Nebraska-Lincoln</li>
@@ -34,7 +34,7 @@ My research interests include machine learning, computer vision, data analysis a
     </td>
   </tr>
   <tr>
-    <td><img src="https://sunjianxin.github.io/assets/img/argonne.jpeg" width=100 height=100></td>
+    <td><img src="https://sunjianxin.github.io/assets/img/argonne.jpeg" width=80 height=80></td>
     <td>
       <ul>
   	<li>Argonne National Laboratory</li>
@@ -44,7 +44,7 @@ My research interests include machine learning, computer vision, data analysis a
     </td>
   </tr>
   <tr>
-    <td><img src="https://sunjianxin.github.io/assets/img/licor.jpeg" width=100 height=100></td>
+    <td><img src="https://sunjianxin.github.io/assets/img/licor.jpeg" width=80 height=80></td>
     <td>
       <ul>
   	<li>Licor, Design Software Engineer, Aug 2015 - May 2018</li>
@@ -53,7 +53,7 @@ My research interests include machine learning, computer vision, data analysis a
     </tb>
   </tr>
   <tr>
-    <td><img src="https://sunjianxin.github.io/assets/img/purdue.jpeg" width=100 height=100></td>
+    <td><img src="https://sunjianxin.github.io/assets/img/purdue.jpeg" width=80 height=80></td>
     <td>
       <ul>
   	<li>Purdue University</li>
