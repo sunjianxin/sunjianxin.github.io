@@ -35,7 +35,7 @@ Licor, Design Software Engineer, Aug 2015 - May 2018
 
 Purdue University, Research Assistaant, Aug 2012 - May 2015, Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://sunjianxin.github.io/assets/img/unl.jpeg" width=50 height=50></td>
     <td><p>University of Nebraska-Lincoln, Research Assistant, Aug 2018 - Present, Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)</p></td>
