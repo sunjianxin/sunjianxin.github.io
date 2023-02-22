@@ -21,7 +21,7 @@ My research interests include machine learning, computer vision, data analysis a
 
 [Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](/cv.pdf)
 
-## Experience
+## experience
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://sunjianxin.github.io/assets/img/unl.jpeg" width=80 height=80></td>
