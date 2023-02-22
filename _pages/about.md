@@ -25,6 +25,9 @@ My research interests include machine learning, computer vision, data analysis a
 ![unl](https://sunjianxin.github.io/assets/img/unl.jpeg)
 University of Nebraska-Lincoln, Research Assistant, Aug 2018 - Present, Advisor: Dr. [Hongfeng Yu](https://cse.unl.edu/~yu/)
 
+<img style="float: right;" src="https://sunjianxin.github.io/assets/img/Argonne.jpeg">
+
+Continue markdown text...
 Argonne National Laboratory, Summer Research Assistant Intern, May 2021 - Dec 2021, Advisor: [Dr. Tom Peterka](https://www.anl.gov/profile/thomas-peterka)
 
 Licor, Design Software Engineer, Aug 2015 - May 2018
