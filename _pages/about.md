@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>-------</a>. I am actively looking for internships in the Summer of 2023.
+<!-- subtitle: <a href='#'>-------</a>I am actively looking for internships in the Summer of 2023. -->
 
 profile:
   align: right
