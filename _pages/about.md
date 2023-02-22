@@ -22,6 +22,9 @@ My research interests include machine learning, computer vision, data analysis a
 [Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](/cv.pdf)
 
 ## experience
+
+---
+
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/unl.jpeg">
 
 University of Nebraska-Lincoln
