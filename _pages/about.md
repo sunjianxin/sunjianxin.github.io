@@ -45,7 +45,9 @@ Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/unl.jpeg">
 
 University of Nebraska-Lincoln
+
 Research Assistant, Aug 2018 - Present
+
 Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)
 
 ---
@@ -61,7 +63,9 @@ Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/unl.jpeg">
 
 University of Nebraska-Lincoln
+
 Research Assistant, Aug 2018 - Present
+
 Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)
 
 ---
