@@ -2,10 +2,9 @@ github_users:
   - sunjianxin
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sunjianxin/VTK_MFA-DVR
+  - sunjianxin/Deep-Learning-Prefetching
+  - sunjianxin/Deep-prefetching-renderer
+  - sunjianxin/example_MFA-DVR
+  - sunjianxin/mfa
+  - sunjianxin/rendner_webgl
