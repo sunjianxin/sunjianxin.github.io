@@ -1,80 +1,62 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: 3D Learning from Point Cloud and Mesh
+description: RANSAC-based marching ring for 3D cylinder learning to approximate 3D shape and perform 3D semantic segmentation
+img: assets/img/softvis0.png
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Eye tracking is a frequently used technique to collect
+data capturing users’ strategies and behaviors in processing
+information. Understanding how programmers navigate through
+a large number of classes and methods to find bugs is important
+to educators and practitioners in software engineering. However,
+the eye tracking data collected on realistic codebases is massive
+compared to traditional eye tracking data on one static page. The
+same content may appear in different areas on the screen with
+users scrolling in an Integrated Development Environment (IDE).
+Hierarchically structured content and fluid method position
+compose the two major challenges for visualization. We present
+a dual-space analysis approach to explore eye tracking data
+by leveraging existing software visualizations and a new graph
+embedding visualization. We use the graph embedding technique
+to quantify the distance between two arbitrary methods, which
+offers a more accurate visualization of distance with respect to the
+inherent relations, compared with the direct software structure
+and the call graph. The visualization offers both naturalness and
+readability showing time-varying eye movement data in both
+the content space and the embedded space, and provides new
+discoveries in developers’ eye tracking behaviors.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/softvis1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Tree trunk modeling using proposed RANSAC-based marching ring and main branch segmentation.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/softvis2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Tree trunk modeling and main branch segmentation on various apple tree samples.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+The visualization and clustering results
+provide an intuitive and effective way of understanding reading
+patterns, such as whether participants follow the tree or call
+graph structure and how participants generally navigate to the
+bug location and in what sequence. Our visualization uses
+the eye trace of the software system as its use case, but it
+has the potential of applications in other domains as well.
+For example, in social science, we can visualize the pattern
+of a person getting himself into a social network, suggesting
+his social skills or personality. Similarly, we can investigate
+the pattern of how information or news gets spread. In this
+paper, we are primarily concerned with eye tracking data for
+debugging patterns and efficiency.
