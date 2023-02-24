@@ -2,7 +2,7 @@
 layout: page
 title: Interactive Volume Renderer
 description: GPU-accelerated multi-resolution volume visualization for large-scale data using deep prefetching neural network, RmdnCache.
-img: assets/img/12.jpg
+img: assets/img/renderer.png
 importance: 1
 category: work
 ---
@@ -12,6 +12,15 @@ RmdnCache Renderer is a GPU-accelerated multi-resolution volume visualization re
 CUDA is used for multi-core parallelism of rendering on GPU. LibTorch is used to inference the pre-trained RmdnCache network on CPU. Detail implementation can be accessed from my GitHub repo [here](https://github.com/sunjianxin/Deep-prefetching-renderer).
 
 The demo below shows the prefetching performance, interm of number of missing microblocks in red color, across popular prefetching algorithms and the RmdnCache pre-trained network using the interactive volume render.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/renderer.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Global view of microblocks and volume, and the camera view of the final rendering.
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SBPq6zV1LUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
