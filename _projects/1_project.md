@@ -43,9 +43,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-<iframe width="1920" height="1080"
-src="https://youtu.be/SBPq6zV1LUQ">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBPq6zV1LUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
