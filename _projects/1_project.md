@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interactive Volume Renderer
+title: Deep Prefetching Interactive Volume Renderer
 description: GPU-accelerated multi-resolution volume visualization for large-scale data using deep prefetching neural network, RmdnCache.
 img: assets/img/renderer.png
 importance: 1
