@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Interactive Volume Renderer
+description: GPU-accelerated multi-resolution volume visualization for large-scale data using deep prefetching neural network, RmdnCache.
 img: assets/img/12.jpg
 importance: 1
 category: work
