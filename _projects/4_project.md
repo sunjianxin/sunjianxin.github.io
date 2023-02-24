@@ -1,80 +1,46 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Direct rendering from MFA model
+description: MFA-DVR is a direct volume rendering on MFA model and implemented on top of VTK visualization library. (Data modeling and Visualization, C/C++)
+img: assets/img/mfa1.png
+importance: 1
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+3D volume rendering is widely used to reveal insightful intrinsic patterns of volumetric datasets across many domains.
+However, the complex structures and varying scales of datasets make generating a high-quality volume rendering results efficiently
+a challenging task. Multivariate functional approximation (MFA) is a new data model that addresses some of the key challenges of
+volume visualization. MFA provides high-order evaluation of values and derivatives anywhere in the spatial domain, mitigating the
+artifacts caused by the zero- or first-order interpolation commonly implemented in existing volume visualization algorithms. MFA’s
+compact representation improves the space complexity for large-scale volumetric data visualization, while its uniform representation of
+both structured and unstructured data allows the same ray casting algorithm to be used for a variety of input data types. In this paper,
+we present MFA-DVR, the first direct volume rendering pipeline utilizing the MFA model, for both structured and unstructured volumetric
+datasets. We demonstrate improved rendering quality using MFA-DVR on both synthetic and real datasets through a comparative study
+with raw and compressed data. We show that MFA-DVR not only generates more faithful volume rendering results with less memory
+footprint, but also performs faster than traditional algorithms when rendering unstructured datasets. MFA-DVR is implemented in the
+existing volume rendering pipeline of the Visualization Toolkit (VTK) in order to be accessible by the scientific visualization community.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mfa2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    MFA-DVR performance comparision on interpolatin and compression.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/mfa1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    MFA-DVR high-order interpolation comparing with other linear and non-linear interpolators.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<iframe width="960" height="480" src="https://www.youtube.com/embed/FHzvs5nITpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    MFA-DVR rendering quality and performance evaluation
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Dataset:
+Multiple volumetric dataset with various size.
