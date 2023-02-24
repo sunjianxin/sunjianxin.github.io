@@ -11,7 +11,7 @@ RmdnCache Renderer is a GPU-accelerated multi-resolution volume visualization re
 
 CUDA is used for multi-core parallelism of rendering on GPU. LibTorch is used to inference the pre-trained RmdnCache network on CPU. Detail implementation can be accessed from my GitHub repo [here](https://github.com/sunjianxin/Deep-prefetching-renderer).
 
-The demo below shows the prefetching performance, interm of number of missing microblocks in red color, across popular prefetching algorithms and the RmdnCache pre-trained network using the interactive volume render.
+The demo below shows the prefetching performance, interm of number of missing microblocks in red color, across popular prefetching algorithms and the RmdnCache pre-trained network using the interactive volume render. Our renderer can achieve responsive interactive volume visualization on large-scale Flame volume dataset of 7GB in size.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,3 +23,11 @@ The demo below shows the prefetching performance, interm of number of missing mi
 </div>
 
 <iframe width="960" height="480" src="https://www.youtube.com/embed/SBPq6zV1LUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="caption">
+    Volume rendering in real time on large-scale dataset showing performance comparison.
+</div>
+
+Dataset:
+Flame dataset
+Size:
+7GB
