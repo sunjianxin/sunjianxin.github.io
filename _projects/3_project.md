@@ -3,7 +3,7 @@ layout: page
 title: 3D Learning from Point Cloud and Mesh
 description: RANSAC-based marching ring for 3D cylinder learning to approximate 3D shape and perform 3D semantic segmentation
 img: assets/img/tree0.png
-importance: 2
+importance: 3
 category: work
 ---
 
