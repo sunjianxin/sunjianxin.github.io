@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 3D Learning from Point Cloud and Mesh
-description: RANSAC-based marching ring for 3D cylinder learning to approximate 3D shape and perform 3D semantic segmentation
+title: Graph embedding for software source code analytics
+description: Deep learning graph embedding is utilized to extract insightful feature from complex call graph to lower-dimensional space for similarity measurement. **(Graph Neural Network, Dimension Reduction, Data Visualization)**
 img: assets/img/softvis0.png
 importance: 5
 category: work
