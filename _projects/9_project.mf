@@ -1,0 +1,19 @@
+---
+layout: page
+title: Full stack website for tgsounder scanning, visualizing results and download collected data.
+description: AngularJS front-end. Flask back-end with MQTT real time communication protocol (AngularJS, WebGL, Three.js, Flask, MQTT)
+img: assets/img/pddd.png
+importance: 9
+category: work
+---
+
+This is a full stack website demostrating the real-time tgsounder scanning of IOT application between two tgsounder nodes. The front-end is build in AngularJS framework using Typescript real time configureation, operation, and result visualization. The Back-end is on Flask python framework incharge of data communication through MQTT protocol. REST APIs is host on Heroku cloud application platform.
+
+The demo not only shows the spatial relation between the UAVs but plot the signal profile of two communication channels in real time as the UAV moves. User can also manually operate the transmitter drone or the receiver drone as needed.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2QxGHTygLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="caption">
+    Tgsounder setting and experiment
+</div>
+
+This is one component of a bigger project of large-scale IOT research.
