@@ -3,7 +3,7 @@ layout: page
 title: 3D reconstruction from Multi-view images
 description: Register the 3D reconstructed views through ICP(Iterative Closest Point). (Computer Vision, Multi-view, 3D registration, ICP)
 img: assets/img/multiview.png
-importance: 5
+importance: 7
 category: work
 ---
 
