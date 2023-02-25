@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Spatial-Temporal Scientific Data Clustering via Deep Convolutional Neural Network
-description: Dimension reduction using convolutional autoencoder for spatial-temporal data classification. 
-
-(Convolutional Neural Network, Dimension Reduction, Spatial-Temporal Data, Classification)
+description: Dimension reduction using convolutional autoencoder for spatial-temporal data classification. (Convolutional Neural Network, Dimension Reduction, Spatial-Temporal Data, Classification)
 img: assets/img/water0.png
 importance: 5
 category: work
