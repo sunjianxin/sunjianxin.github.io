@@ -3,7 +3,7 @@ layout: page
 title: 3D reconstruction and learning from LIDAR Sensor
 description: Automatic 3D reconstruction and learning from sparse 2.5D LIDAR images. (LIDAR, 3D reconstruction, 3D segmentation, 3D classification, depth view registration, ICP)
 img: assets/img/lidar3.png
-importance: 10
+importance: 5
 category: work
 ---
 
