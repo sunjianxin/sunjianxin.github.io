@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prefetching Neural Network
-description: Prefetching neural network, RmdnCache, is a predictive model for microblock prediction using RNN + MDN.
+description: Prefetching neural network, RmdnCache, is a predictive model for microblock prediction using RNN + MDN. (Deep learning, RNN, MDN, Pytorch, OpenGL, Python)
 img: assets/img/network.png
 importance: 2
 category: work
