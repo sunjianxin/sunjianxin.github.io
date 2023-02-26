@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep Prefetching Interactive Volume Renderer
-description: GPU-accelerated multi-resolution volume visualization for large-scale data using deep prefetching neural network, RmdnCache. **(CUDA, Multi-resolution, Pytorch, LibTorch, Volume Visualization, C/C++, OpenGL)**
+description: GPU-accelerated multi-resolution volume visualization for large-scale data using deep prefetching neural network, RmdnCache. (CUDA, Multi-resolution, Pytorch, LibTorch, Volume Visualization, C/C++, OpenGL)
 img: assets/img/renderer.png
 importance: 1
 category: work
