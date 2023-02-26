@@ -17,7 +17,7 @@ D3.js is used on the front-end AngularJS framework for interactive UI. Configura
     </div>
 </div>
 <div class="caption">
-    Architecture of the web application.
+    Covercrop biomass calculaor website.
 </div>
 
 The goal of the biomass calculator is to provide producers, researchers and other agriculture professionals with realistic, data-driven predictions to address the challenges presented in the winter growing period. 
