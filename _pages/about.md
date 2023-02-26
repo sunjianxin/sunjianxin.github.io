@@ -19,7 +19,7 @@ I'm a computer science Ph.D student at The University of Nebraska-Lincoln. I am 
 
 My research interests include machine learning, computer vision, data analysis and visualization. Currently, my research mainly focus on 3D modeling, learning and its visualization through neural networks.
 
-[Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](/cv.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](assets/pdf/Resume_JianxinSun.pdf)
 
 ## Experience
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/unl.jpeg">
