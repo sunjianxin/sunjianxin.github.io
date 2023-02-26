@@ -3,7 +3,7 @@ layout: page
 title: Full stack website for UAV wireless communication 
 description: AngularJS front-end with WebGL and Three.js. Flask back-end with MQTT real time communication protocol **(AngularJS, WebGL, Three.js, Flask, MQTT)**
 img: assets/img/uav0.png
-importance: 8
+importance: 9
 category: work
 ---
 
