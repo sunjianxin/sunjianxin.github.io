@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Full stack website for tgsounder scanning, visualizing results and download collected data.
-description: AngularJS front-end. Flask back-end with MQTT real time communication protocol (AngularJS, WebGL, Three.js, Flask, MQTT)
+title: Full stack website for tgsounder scanning.
+description: AngularJS front-end. Flask back-end with MQTT real time communication protocol. (AngularJS, WebGL, Three.js, Flask, MQTT)
 img: assets/img/pddd.png
 importance: 10
 category: work
 ---
 
-This is a full stack website demostrating the real-time tgsounder scanning of IOT application between two tgsounder nodes. The front-end is build in AngularJS framework using Typescript real time configureation, operation, and result visualization. The Back-end is on Flask python framework incharge of data communication through MQTT protocol. REST APIs is host on Heroku cloud application platform.
+This is a full stack website demostrating the real-time tgsounder scanning of IOT application between two tgsounder nodes. Results can be visualized in real time. Raw data collected can be downloaded local machine for fugure analysis. The front-end is build in AngularJS framework using Typescript real time configureation, operation, and result visualization. The Back-end is on Flask python framework incharge of data communication through MQTT protocol. REST APIs is host on Heroku cloud application platform. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
