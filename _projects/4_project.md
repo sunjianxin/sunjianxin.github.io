@@ -3,7 +3,7 @@ layout: page
 title: Direct rendering from MFA model
 description: MFA-DVR is a direct volume rendering on MFA model and implemented on top of VTK visualization library. (Data modeling and Visualization, C/C++)
 img: assets/img/mfa1.png
-importance: 4
+importance: 8
 category: work
 ---
 
