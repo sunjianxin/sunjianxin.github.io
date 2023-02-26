@@ -3,7 +3,7 @@ layout: page
 title: Full stack website for tgsounder scanning, visualizing results and download collected data.
 description: AngularJS front-end. Flask back-end with MQTT real time communication protocol (AngularJS, WebGL, Three.js, Flask, MQTT)
 img: assets/img/pddd.png
-importance: 9
+importance: 10
 category: work
 ---
 
