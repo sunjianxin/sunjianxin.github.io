@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Graph embedding for software source code analytics
-description: Deep learning graph embedding is utilized to extract insightful feature from complex call graph to lower-dimensional space for similarity measurement. **(Graph Neural Network, Dimension Reduction, Data Visualization)**
+description: Deep learning graph embedding is utilized to extract insightful feature from complex call graph to lower-dimensional space for similarity measurement. (Graph Neural Network, Dimension Reduction, Data Visualization)
 img: assets/img/softvis0.png
 importance: 6
 category: work
