@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a computer science Ph.D student at The University of Nebraska-Lincoln. I am advised by Professor [Hongfeng Yu](https://cse.unl.edu/~yu/). I obtained my M.S. degree in Electrical and Computer Engineering (ECE) from Purdue University, advised by Professor [Avinash Kak](https://engineering.purdue.edu/kak/). I recieved my B.S degree from Harbin Institute of Technology.
 
-My research interests include machine learning, computer vision, data analysis and visualization. Currently, my research mainly focus on 3D modeling, learning and its visualization through neural networks.
+My research interests are large-scale data modeling and visualization, machine learning and computer vision. Currently, my research mainly focus on 3D modeling, learning and its visualization through neural networks.
 
 [Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](assets/pdf/Resume_JianxinSun.pdf)
 
@@ -26,7 +26,7 @@ My research interests include machine learning, computer vision, data analysis a
 
 University of Nebraska-Lincoln
 
-Research Assistant, Aug 2018 - Present
+Research Assistant, Aug 2018 - May 2024
 
 Advisor: [Dr. Hongfeng Yu](https://cse.unl.edu/~yu/)
 
