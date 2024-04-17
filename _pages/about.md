@@ -21,6 +21,7 @@ My research interests are large-scale data modeling and visualization, machine l
 
 [Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](assets/pdf/Resume_JianxinSun.pdf)
 
+<!--
 ## Experience
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/unl.jpeg">
 
@@ -59,6 +60,7 @@ Purdue University
 Research Assistant, Aug 2012 - May 2015
 
 Advisor: [Prof. Avinash Kak](https://engineering.purdue.edu/kak/)
+-->
 
 ---
 
