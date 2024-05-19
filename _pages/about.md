@@ -16,7 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I received my B.S. degree and M.S. degree in Computer Science from Zhejiang University, and Ph.D. degree in Computer Science from the University of California-Davis.
 I received my Ph.D. degree in computer science from The University of Nebraska-Lincoln in 2024, advised by Professor [Hongfeng Yu](https://cse.unl.edu/~yu/). I obtained my M.S. degree in Electrical and Computer Engineering (ECE) from Purdue University, advised by Professor [Avinash Kak](https://engineering.purdue.edu/kak/). I recieved my B.S degree from Harbin Institute of Technology.
 
 My research concentrates on large-scale scientific data modeling, analysis and visualization, machine learning and computer vision. Currently, my research mainly focus on volumetric data modeling, learning and its visualization through neural networks.
