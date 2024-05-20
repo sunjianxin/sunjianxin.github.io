@@ -7,6 +7,18 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### Journal Paper Reviewers
 
-Organize your courses by years, topics, or universities, however you like!
+IEEE Transactions on Visualization and Computer Graphics (TVCG), 2021
+
+Big Data Research, 2021
+
+##### Conference Paper Reviewers
+
+IEEE Visualization Conference (VIS), 2021, 2022
+
+Eurographics/IEEE-VGTC Symposium on Visualization (EuroVis), 2023
+
+IEEE International Conference on Big Data (IEEE BigData), 2021
+
+International Conference on Scientific and Statistical Database Management (SSDBM) 2021
