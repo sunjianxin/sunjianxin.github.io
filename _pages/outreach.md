@@ -8,13 +8,7 @@ nav_order: 5
 ---
 
 ### Journal Paper Reviewer
-- IEEE Transactions on Visualization and Computer Graphics (TVCG)
-- Big Data Research
-  
----
-
-### Conference Paper Reviewer
-- IEEE Visualization Conference (VIS), 2021, 2022, 2023, 2024
-- Eurographics/IEEE-VGTC Symposium on Visualization (EuroVis), 2023
-- IEEE International Conference on Big Data (IEEE BigData), 2021, 2022
-- International Conference on Scientific and Statistical Database Management (SSDBM) 2021
+- Lincoln's	2023	Hour	of	Code	&	Tech	Fair	event	at	Nebraska	Innovation	Campus (12/02/2023)
+- Girls	Code	Lincoln	visiting	at	visualization	lab with hands-on	activities (11/12/2023)
+- Hour	of	Code	event	at	Nebraska	Innovation	Campus	(12/03/2022,	12/07/2019)
+- The	third	annual	Introduce	a	Girl	to	Engineering	day	(01/25/2020)
