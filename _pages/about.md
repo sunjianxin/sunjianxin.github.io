@@ -10,9 +10,9 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>[Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en)</p>
+    <p>[GitHub](https://github.com/sunjianxin)</p>
+    <p>[CV](assets/pdf/Resume_JianxinSun.pdf)</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
