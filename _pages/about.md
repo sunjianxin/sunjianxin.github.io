@@ -10,9 +10,9 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>[Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en)</p>
-    <p>[GitHub](https://github.com/sunjianxin)</p>
-    <p>[CV](assets/pdf/Resume_JianxinSun.pdf)</p>
+    <p> <a href="https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en">Google Scholar</a> </p>
+    <p> <a href="https://github.com/sunjianxin">GitHub</a> </p>
+    <p> <a href="assets/pdf/Resume_JianxinSun.pdf">CV</a>  </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
