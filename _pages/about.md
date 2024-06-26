@@ -23,8 +23,6 @@ I received my Ph.D. degree in computer science from The University of Nebraska-L
 
 My research concentrates on large-scale scientific data modeling, analysis and visualization, machine learning and computer vision. Currently, my research mainly focus on volumetric data modeling, learning and its visualization through neural networks.
 
-[Google Scholar](https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en), [GitHub](https://github.com/sunjianxin), [CV](assets/pdf/Resume_JianxinSun.pdf)
-
 <!--
 ## Experience
 <img align="left" width="100" height="100" src="https://sunjianxin.github.io/assets/img/unl.jpeg">
