@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   <!--image: prof_pic.jpg-->
-  image: headshot.jpg
+  image: headshot_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> <a href="https://scholar.google.com/citations?user=6LsspOUAAAAJ&hl=en">Google Scholar</a> </p>
