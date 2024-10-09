@@ -4,7 +4,7 @@ github_users:
 github_repos:
   - sunjianxin/VTK_MFA-DVR
   - sunjianxin/Deep-Learning-Prefetching
-  - sunjianxin/Deep-prefetching-renderer
+  - sunjianxin/Adaptive-FAM
   - sunjianxin/example_MFA-DVR
   - sunjianxin/uavis-app
   - sunjianxin/rendner_webgl
