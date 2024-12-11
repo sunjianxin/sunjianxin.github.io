@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 I received my Ph.D. degree in computer science from The University of Nebraska-Lincoln in 2024, advised by Professor [Hongfeng Yu](https://cse.unl.edu/~yu/). I obtained my M.S. degree in Electrical and Computer Engineering (ECE) from Purdue University, advised by Professor [Avinash Kak](https://engineering.purdue.edu/kak/). 
 <!--I received my B.S degree from Harbin Institute of Technology.-->
 
-My research concentrates on large-scale scientific data modeling, analysis and visualization, machine learning and computer vision. Currently, my research mainly focus on volumetric data modeling, learning and its visualization through neural networks.
+My research concentrates on large-scale scientific data modeling, analysis and visualization, machine learning and computer vision. Currently, my research works mainly focus on volumetric data modeling, learning and its visualization through neural networks.
 
 <!--
 ## Experience
