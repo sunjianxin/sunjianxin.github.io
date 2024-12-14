@@ -6,6 +6,8 @@ description:
 nav: true
 nav_order: 5
 ---
+### 2024
+- Lincoln's	2024	Hour	of	Code	&	Tech	Fair	event	at	Nebraska	Innovation	Campus (12/07/2024)
 
 ### 2023
 - Lincoln's	2023	Hour	of	Code	&	Tech	Fair	event	at	Nebraska	Innovation	Campus (12/02/2023)
