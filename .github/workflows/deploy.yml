@@ -24,6 +24,15 @@ jobs:
     - name: Install deps
       run: |
         npm install -g mermaid.cli
+    - name: Update Bundler & Dependencies
+      run: |
+        gem install bundler
+        bundle update --bundler
+        bundle update
+    - name: Clean Bundler Cache & Reinstall Gems
+      run: |
+        rm -rf ~/.bundle/cache
+        bundle install --clean
     - name: Setup deploy options
       id: setup
       run: |
