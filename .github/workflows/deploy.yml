@@ -24,14 +24,10 @@ jobs:
     - name: Install deps
       run: |
         npm install -g mermaid.cli
-    - name: Fix URI Gem Conflict
-      run: |
-        gem install uri -v 1.0.2
-        bundle update uri
-    - name: Clean Gem Cache
-      run: |
-        gem uninstall -aIx uri
-        bundle clean --force
+        gem update --system
+        gem install bundler
+        bundle update --bundler
+        rm -rf vendor/bundle
         bundle install
     - name: Setup deploy options
       id: setup
