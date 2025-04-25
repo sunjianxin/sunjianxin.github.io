@@ -14,13 +14,11 @@ My research concentrates on AI-driven scientific data modeling, analysis, and vi
 
 News
 ======
-- Jul 26, 2024: Our [MFA-DVR](https://link.springer.com/article/10.1007/s12650-023-00946-y) paper got published in the Journal of Visualization.
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Jul 26, 2024: Our [Adaptive-FAM](https://arxiv.org/abs/2409.00184) paper is accepted by LDAV 2024 - Large Data Analysis and Visualization.
+- Jun 19, 2024: Our [RmdnCache](https://ieeexplore.ieee.org/abstract/document/10549835) paper is accepted by TVCG.
+- Oct 27, 2023: Two papers accepted by [BigData 2023](https://bigdataieee.org/BigData2023/ImportantDates.html) as the leading author.
+- Apr 02, 2023: Our [MFA-DVR](https://link.springer.com/article/10.1007/s12650-023-00946-y) paper got published in the Journal of Visualization.
+- Feb 02, 2023: Please check our [review paper](https://www.sciencedirect.com/science/article/pii/S004313542300180X?casa_token=WlEPnkdR5akAAAAA:kjxbRnqBaa8vDkgmDDFCv-UxDjXrSMhSQwXlkNmzKaKFGphWdj30-e7-mJxswjyAzIzbMPyS) on Machine Learning in the Groundwater domain.
 
 Site-wide configuration
 ------
