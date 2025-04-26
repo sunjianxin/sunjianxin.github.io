@@ -1,7 +1,7 @@
 ---
 title: "Automation of Dormant Pruning in Specialty Crop Production: An Adaptive Framework for Automatic Reconstruction and Modeling of Apple Trees"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/cvpr
 excerpt: 'Noha M. Elfiky, Shayan A. Akbar, **Jianxin Sun**, Johnny Park, Avinash Kak'
 date: 2015-10-01
