@@ -27,8 +27,8 @@ Recent Selected Publications
   <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0; font-weight: bold;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
-    <p style="margin: 0 0 8px 0;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
-    <p style="margin: 0; font-style: italic;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
+    <p style="margin: 0 0 8px 0; font-size: 0.8em;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.8em;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
   </div>
 </div>
 
