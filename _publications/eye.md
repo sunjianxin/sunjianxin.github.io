@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/eye
 excerpt: 'Li Zhang, **Jianxin Sun**, Cole Peterson, Bonita Sharif, Hongfeng Yu'
 date: 2019-09-30
-venue: 'Working Conference on Software Visualization (VISSOFT) 2019'
+venue: 'Working Conference on Software Visualization (VISSOFT)'
 slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8900970'
 citation:
