@@ -40,7 +40,7 @@ Recent Selected Publications
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="[your-image.jpg](https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5)" alt="Description" style="width: 120px; height: 120px; object-fit: cover;">
+  <img src="https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5" alt="Description" style="width: 120px; height: 120px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0;">First line of text goes here</p>
     <p style="margin: 0 0 8px 0;">Second line of text goes here</p>
