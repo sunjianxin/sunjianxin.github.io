@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/cnn
 excerpt: '**Jianxin Sun**, Chunxia Wu, Yufeng Ge, Yusong Li, Hongfeng Yu'
 date: 2019-12-09
-venue: 'CVPR'
+venue: 'IEEE International Conference on Big Data (Big Data)'
 slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9006507'
 bibtexurl:
