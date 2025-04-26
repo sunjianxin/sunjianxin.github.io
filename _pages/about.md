@@ -21,8 +21,16 @@ News
 - Apr 02, 2023: Our [MFA-DVR](https://link.springer.com/article/10.1007/s12650-023-00946-y) paper got published in the Journal of Visualization.
 - Feb 02, 2023: Please check our [review paper](https://www.sciencedirect.com/science/article/pii/S004313542300180X?casa_token=WlEPnkdR5akAAAAA:kjxbRnqBaa8vDkgmDDFCv-UxDjXrSMhSQwXlkNmzKaKFGphWdj30-e7-mJxswjyAzIzbMPyS) on Machine Learning in the Groundwater domain.
 
-Site-wide configuration
+Recent Selected Publications
 ------
+- Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation
+  Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka
+  IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024
+
+- Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation
+  Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka
+  IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
