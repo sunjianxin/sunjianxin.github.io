@@ -1,7 +1,7 @@
 ---
 title: "Exploring eye tracking data on source code via dual space analysis"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/eye
 excerpt: 'Li Zhang, **Jianxin Sun**, Cole Peterson, Bonita Sharif, Hongfeng Yu'
 date: 2019-09-30
