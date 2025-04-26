@@ -24,7 +24,7 @@ News
 Recent Selected Publications
 ------
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <img src="https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
     <p style="margin: 0 0 8px 0;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
