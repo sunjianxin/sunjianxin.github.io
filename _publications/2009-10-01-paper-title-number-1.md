@@ -6,9 +6,9 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015-10-01
 venue: 'CVPR'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/document/7301298'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+bibtexurl:
 citation:
 ---
 Abstract
