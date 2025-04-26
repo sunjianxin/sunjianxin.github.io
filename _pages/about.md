@@ -31,16 +31,8 @@ Recent Selected Publications
   Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka
   IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024
 
-<div style="display: flex; align-items: center;">
-  <img src="https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5" alt="Square Image" style="width: 50px; height: 50px; object-fit: cover; margin-right: 20px;"/>
-  <div>
-    Your text goes here. You can include multiple paragraphs or other markdown elements.
-    Just make sure they're properly indented within this div.
-  </div>
-</div>
-
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5" alt="Description" style="width: 120px; height: 120px; object-fit: cover;">
+  <img src="https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0;">First line of text goes here</p>
     <p style="margin: 0 0 8px 0;">Second line of text goes here</p>
