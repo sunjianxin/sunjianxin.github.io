@@ -37,6 +37,7 @@ Recent Selected Publications
     </p>
   </div>
 </div>
+
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/rmdnCache_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
@@ -50,7 +51,37 @@ Recent Selected Publications
       <a href="" target="_blank">Code</a> |
     </p>
   </div>
-</div> 
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/scalable_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <div>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">Scalable Volume Visualization for Big Scientific Data Modeled by Functional Approximation</p>
+    <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, and Tom Peterka</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE International Conference on Big Data (BigData), 2023</p>
+    <p style="margin: 0; font-size: 0.9em;">
+      | <a href="https://ieeexplore.ieee.org/abstract/document/10386434" target="_blank">Paper</a> | 
+      <a href="https://arxiv.org/pdf/2312.15073" target="_blank">PDF</a> | 
+      <a href="" target="_blank">Video</a> | 
+      <a href="" target="_blank">Code</a> |
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/mfadvr_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <div>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">MFA-DVR: Direct Volume Rendering of MFA Models</p>
+    <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, and Tom Peterka</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.9em;">Journal of Visualization, 2023</p>
+    <p style="margin: 0; font-size: 0.9em;">
+      | <a href="https://link.springer.com/article/10.1007/s12650-023-00946-y" target="_blank">Paper</a> | 
+      <a href="https://arxiv.org/pdf/2204.11762" target="_blank">PDF</a> | 
+      <a href="[https://www.youtube.com/watch?v=2Q2OToGZ2nk](https://www.youtube.com/watch?v=_qqE705a894)" target="_blank">Video</a> | 
+      <a href="" target="_blank">Code</a> |
+    </p>
+  </div>
+</div>
 
 Create content & metadata
 ------
