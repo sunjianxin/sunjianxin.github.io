@@ -24,29 +24,11 @@ News
 Recent Selected Publications
 ------
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://img.freepik.com/free-psd/cineraria-flower-png-isolated-transparent-background_191095-10910.jpg" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
-    <p style="margin: 0 0 8px 0;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
     <p style="margin: 0 0 8px 0;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
-    <p style="margin: 0;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
-  <div>
-    <p style="margin: 0 0 8px 0;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
-    <p style="margin: 0 0 8px 0;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
-    <p style="margin: 0;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://cdn.pixabay.com/photo/2017/06/04/23/57/stem-2372543_1280.png" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
-  <div>
-    <p style="margin: 0 0 8px 0;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
-    <p style="margin: 0 0 8px 0;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
-    <p style="margin: 0;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
+    <p style="margin: 0; font-style: italic;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
   </div>
 </div>
 
