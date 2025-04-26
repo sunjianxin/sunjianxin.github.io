@@ -7,9 +7,9 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2015-10-01
 venue: 'CVPR'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W05/papers/Elfiky_Automation_of_Dormant_2015_CVPR_paper.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/7301298'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation:
 ---
 Abstract
 ======
@@ -18,14 +18,15 @@ Dormant pruning is one of the most costly and labor-intensive operations in spec
 Bibtex
 ======
 ```bibtex
-@article{smith2021data,
-  title={Data-driven Approaches in Science},
-  author={Smith, John and Doe, Jane},
-  journal={Journal of Data Science},
-  volume={19},
-  number={2},
-  pages={123--145},
-  year={2021},
-  publisher={Science Press}
+@INPROCEEDINGS{7301298,
+  author={Elfiky, Noha M. and Akbar, Shayan A. and Sun, Jianxin and Park, Johnny and Kak, Avinash},
+  booktitle={2015 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
+  title={Automation of dormant pruning in specialty crop production: An adaptive framework for automatic reconstruction and modeling of apple trees}, 
+  year={2015},
+  volume={},
+  number={},
+  pages={65-73},
+  keywords={Three-dimensional displays;Feature extraction;Vegetation;Sensors;Image reconstruction;Skeleton;Adaptation models},
+  doi={10.1109/CVPRW.2015.7301298}
 }
 ```
