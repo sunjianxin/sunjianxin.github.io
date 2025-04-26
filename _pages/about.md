@@ -37,8 +37,20 @@ Recent Selected Publications
     </p>
   </div>
 </div>
-
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <div>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
+    <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
+    <p style="margin: 0; font-size: 0.9em;">
+      | <a href="https://ieeexplore.ieee.org/abstract/document/10767627" target="_blank">Paper</a> | 
+      <a href="https://arxiv.org/pdf/2409.00184" target="_blank">PDF</a> | 
+      <a href="LINK_TO_VIDEO" target="_blank">Video</a> | 
+      <a href="https://github.com/sunjianxin/Adaptive-FAM" target="_blank">Code</a> |
+    </p>
+  </div>
+</div> 
 
 Create content & metadata
 ------
