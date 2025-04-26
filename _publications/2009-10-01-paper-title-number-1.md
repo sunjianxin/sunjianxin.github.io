@@ -3,7 +3,7 @@ title: "Automation of Dormant Pruning in Specialty Crop Production: An Adaptive 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Noha M. Elfiky, Shayan A. Akbar, Jianxin Sun, Johnny Park, Avinash Kak'
+excerpt: 'Noha M. Elfiky, Shayan A. Akbar, **Jianxin Sun**, Johnny Park, Avinash Kak'
 date: 2015-10-01
 venue: 'CVPR'
 slidesurl:
