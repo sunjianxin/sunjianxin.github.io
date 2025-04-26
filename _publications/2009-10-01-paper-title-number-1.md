@@ -17,7 +17,6 @@ Dormant pruning is one of the most costly and labor-intensive operations in spec
 
 Bibtex
 ======
-<pre>
 ```bibtex
 @article{smith2021data,
   title={Data-driven Approaches in Science},
@@ -30,4 +29,3 @@ Bibtex
   publisher={Science Press}
 }
 ```
-</pre>
