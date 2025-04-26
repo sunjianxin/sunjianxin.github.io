@@ -38,7 +38,7 @@ Recent Selected Publications
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/rmdnCache.gif?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/rmdnCache_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0; font-weight: bold;">RmdnCache: Dual Space Prefetching Neural Network for Large-Scale Volume Visualization</p>
     <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, Xinyan Xie, and Hongfeng Yu</p>
