@@ -33,7 +33,7 @@ Recent Selected Publications
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
     <p style="margin: 0 0 8px 0;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
