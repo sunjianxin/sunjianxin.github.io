@@ -77,8 +77,8 @@ Recent Selected Publications
     <p style="margin: 0; font-size: 0.9em;">
       | <a href="https://link.springer.com/article/10.1007/s12650-023-00946-y" target="_blank">Paper</a> | 
       <a href="https://arxiv.org/pdf/2204.11762" target="_blank">PDF</a> | 
-      <a href="[https://www.youtube.com/watch?v=2Q2OToGZ2nk](https://www.youtube.com/watch?v=_qqE705a894)" target="_blank">Video</a> | 
-      <a href="" target="_blank">Code</a> |
+      <a href="https://www.youtube.com/watch?v=_qqE705a894" target="_blank">Video</a> | 
+      <a href="https://github.com/sunjianxin/VTK_MFA-DVR" target="_blank">Code</a> |
     </p>
   </div>
 </div>
