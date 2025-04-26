@@ -31,6 +31,13 @@ Recent Selected Publications
   Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka
   IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024
 
+<img src="https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5" alt="Square Image" style="width: 50px; height: 50px; object-fit: cover; margin-right: 20px;"/>
+  <div>
+    Your text goes here. You can include multiple paragraphs or other markdown elements.
+    Just make sure they're properly indented within this div.
+  </div>
+</div>
+
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
