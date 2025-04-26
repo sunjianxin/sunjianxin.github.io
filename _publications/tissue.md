@@ -1,6 +1,5 @@
 ---
-title: "[PDF] from unl.edu
-Tissue-Specific Color Encoding and GAN Synthesis for Enhanced Medical Image Generation"
+title: "Tissue-Specific Color Encoding and GAN Synthesis for Enhanced Medical Image Generation"
 collection: publications
 category: conferences
 permalink: /publication/tissue
