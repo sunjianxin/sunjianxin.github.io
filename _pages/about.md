@@ -32,11 +32,11 @@ Recent Selected Publications
   IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_1920/public/media/image/nebraska-n.jpg?itok=sUuW-xG5" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
-    <p style="margin: 0 0 8px 0;">First line of text goes here</p>
-    <p style="margin: 0 0 8px 0;">Second line of text goes here</p>
-    <p style="margin: 0;">Third line of text goes here</p>
+    <p style="margin: 0 0 8px 0;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
+    <p style="margin: 0 0 8px 0;">Jianxin Sun, David Lenz, Hongfeng Yu, Tom Peterka</p>
+    <p style="margin: 0;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
   </div>
 </div>
 
