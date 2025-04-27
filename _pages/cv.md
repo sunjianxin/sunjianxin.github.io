@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+CV
+======
+[My CV](https://github.com/sunjianxin/sunjianxin.github.io/blob/master/files/Resume_JianxinSun.pdf)
+
 {% include base_path %}
 
 Education
