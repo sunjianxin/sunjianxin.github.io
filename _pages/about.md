@@ -14,7 +14,9 @@ His research concentrates on **AI-driven scientific data modeling, analysis, and
 
 News
 ======
-- Dec 15, 2024: LLM-based agentic copilot for data management paper accepted by [BigData 2024](https://ieeexplore.ieee.org/abstract/document/10826038)
+- Jun 06, 2025: Our F-Hash paper is accepted by IEEE VIS 2025.
+- Mar 10, 2025: Will serve in the program committee for IEEE VIS 2025.
+- Dec 15, 2024: LLM-based agentic copilot for data management paper accepted by [BigData 2024](https://ieeexplore.ieee.org/abstract/document/10826038).
 - Jul 26, 2024: Our [Adaptive-FAM](https://arxiv.org/abs/2409.00184) paper is accepted by LDAV 2024 - Large Data Analysis and Visualization.
 - Jun 19, 2024: Our [RmdnCache](https://ieeexplore.ieee.org/abstract/document/10549835) paper is accepted by TVCG.
 - Oct 27, 2023: Two papers accepted by [BigData 2023](https://bigdataieee.org/BigData2023/ImportantDates.html) as the leading author.
