@@ -42,6 +42,22 @@ Recent Selected Publications
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/f_hash_web_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <div>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding
+</p>
+    <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE VIS, 2024</p>
+    <p style="margin: 0; font-size: 0.9em;">
+      | <a href="https://ieeexplore.ieee.org/abstract/document/10767627" target="_blank">Paper</a> | 
+      <a href="https://arxiv.org/abs/2507.03836" target="_blank">PDF</a> | 
+      <a href="" target="_blank">Video</a> | 
+      <a href="https://github.com/sunjianxin/Adaptive-FAM" target="_blank">Code</a> |
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/rmdnCache_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0; font-weight: bold;">RmdnCache: Dual Space Prefetching Neural Network for Large-Scale Volume Visualization</p>
