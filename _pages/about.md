@@ -14,7 +14,7 @@ His research concentrates on **AI-driven scientific data modeling, analysis, and
 
 News
 ======
-- Jul 15, 2025: Our F-Hash paper is accepted by IEEE VIS 2025 as the leading author.
+- Jul 15, 2025: Our [F-Hash](https://arxiv.org/abs/2507.03836) paper is accepted by IEEE VIS 2025 as the leading author.
 - Jun 12, 2025: Will serve in the Program Committee for Large Data Analysis and Visualization (LDAV) 2025.
 - Mar 10, 2025: Will serve in the Program Committee for IEEE VIS and IEEE CLUSTER 2025.
 - Dec 15, 2024: LLM-based agentic copilot for data management paper accepted by [BigData 2024](https://ieeexplore.ieee.org/abstract/document/10826038).
