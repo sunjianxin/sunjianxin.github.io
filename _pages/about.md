@@ -32,7 +32,7 @@ Recent Selected Publications
     <p style="margin: 0 0 8px 0; font-weight: bold;">F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding
 </p>
     <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
-    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE VIS, 2024</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE VIS, 2025</p>
     <p style="margin: 0; font-size: 0.9em;">
       | <a href="https://ieeexplore.ieee.org/abstract/document/10767627" target="_blank">Paper</a> | 
       <a href="https://arxiv.org/abs/2507.03836" target="_blank">PDF</a> | 
