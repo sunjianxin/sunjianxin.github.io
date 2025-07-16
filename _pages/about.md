@@ -27,21 +27,6 @@ News
 Recent Selected Publications
 ------
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
-  <div>
-    <p style="margin: 0 0 8px 0; font-weight: bold;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
-    <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
-    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
-    <p style="margin: 0; font-size: 0.9em;">
-      | <a href="https://ieeexplore.ieee.org/abstract/document/10767627" target="_blank">Paper</a> | 
-      <a href="https://arxiv.org/pdf/2409.00184" target="_blank">PDF</a> | 
-      <a href="" target="_blank">Video</a> | 
-      <a href="https://github.com/sunjianxin/Adaptive-FAM" target="_blank">Code</a> |
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/f_hash_web_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
     <p style="margin: 0 0 8px 0; font-weight: bold;">F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding
@@ -51,6 +36,21 @@ Recent Selected Publications
     <p style="margin: 0; font-size: 0.9em;">
       | <a href="https://ieeexplore.ieee.org/abstract/document/10767627" target="_blank">Paper</a> | 
       <a href="https://arxiv.org/abs/2507.03836" target="_blank">PDF</a> | 
+      <a href="https://www.youtube.com/watch?v=AiN_mFc_Oig&t=275s" target="_blank">Video</a> | 
+      <a href="https://github.com/sunjianxin/Adaptive-FAM" target="_blank">Code</a> |
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/adaptive.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <div>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation</p>
+    <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE Symposium on Large Data Analysis and Visualization (LDAV), 2024</p>
+    <p style="margin: 0; font-size: 0.9em;">
+      | <a href="https://ieeexplore.ieee.org/abstract/document/10767627" target="_blank">Paper</a> | 
+      <a href="https://arxiv.org/pdf/2409.00184" target="_blank">PDF</a> | 
       <a href="" target="_blank">Video</a> | 
       <a href="https://github.com/sunjianxin/Adaptive-FAM" target="_blank">Code</a> |
     </p>
