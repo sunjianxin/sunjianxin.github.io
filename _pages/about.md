@@ -29,10 +29,24 @@ News
 Recent Selected Publications
 ------
 <div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/importanceMask.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
+  <div>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">Make the Fastest Faster: Importance Mask Synthesis for Interactive Volume Visualization using Reconstruction Neural Networks</p>
+    <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
+    <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025</p>
+    <p style="margin: 0; font-size: 0.9em;">
+      | <a href="" target="_blank">Paper</a> | 
+      <a href="https://arxiv.org/abs/2502.06053" target="_blank">PDF</a> | 
+      <a href="" target="_blank">Video</a> | 
+      <a href="" target="_blank">Code</a> |
+    </p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/f_hash_web_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
   <div>
-    <p style="margin: 0 0 8px 0; font-weight: bold;">F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding
-</p>
+    <p style="margin: 0 0 8px 0; font-weight: bold;">F-Hash: Feature-Based Hash Design for Time-Varying Volume Visualization via Multi-Resolution Tesseract Encoding</p>
     <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
     <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE VIS, 2025</p>
     <p style="margin: 0; font-size: 0.9em;">
