@@ -37,7 +37,7 @@ Recent Selected Publications
     <p style="margin: 0; font-size: 0.9em;">
       | <a href="" target="_blank">Paper</a> | 
       <a href="https://arxiv.org/abs/2502.06053" target="_blank">PDF</a> | 
-      <a href="" target="_blank">Video</a> | 
+      <a href="https://www.youtube.com/watch?v=rq9pbCEvi9I" target="_blank">Video</a> | 
       <a href="" target="_blank">Code</a> |
     </p>
   </div>
