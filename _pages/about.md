@@ -14,6 +14,7 @@ His research concentrates on **AI-driven scientific data modeling, analysis, and
 
 News
 ======
+- Oct 06, 2025: Our [Importance Mask](https://arxiv.org/abs/2502.06053) paper is accepted by TVCG as the leading author.
 - Sep 12, 2025: I will chair the VIS 2025 full paper session: Algorithms and Workflows. See you in Vienna!
 - Jul 15, 2025: Our [F-Hash](https://arxiv.org/abs/2507.03836) paper is accepted by IEEE VIS 2025 as the leading author.
 - Jun 12, 2025: Will serve in the Program Committee for Large Data Analysis and Visualization (LDAV) 2025.
