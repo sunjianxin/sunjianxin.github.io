@@ -21,7 +21,7 @@ News
 - Mar 10, 2025: Will serve in the Program Committee for IEEE VIS and IEEE CLUSTER 2025.
 - Dec 15, 2024: LLM-based agentic copilot for data management paper accepted by [BigData 2024](https://ieeexplore.ieee.org/abstract/document/10826038).
 - Jul 26, 2024: Our [Adaptive-FAM](https://arxiv.org/abs/2409.00184) paper is accepted by LDAV 2024 - Large Data Analysis and Visualization.
-- Jun 19, 2024: Our [RmdnCache](https://ieeexplore.ieee.org/abstract/document/10549835) paper is accepted by TVCG.
+- Jun 19, 2024: Our [RmdnCache](https://ieeexplore.ieee.org/abstract/document/10549835) paper is accepted by TVCG as the leading author.
 - Oct 27, 2023: Two papers accepted by [BigData 2023](https://bigdataieee.org/BigData2023/ImportantDates.html) as the leading author.
 - Apr 02, 2023: Our [MFA-DVR](https://link.springer.com/article/10.1007/s12650-023-00946-y) paper got published in the Journal of Visualization.
 - Feb 02, 2023: Please check our [review paper](https://www.sciencedirect.com/science/article/pii/S004313542300180X?casa_token=WlEPnkdR5akAAAAA:kjxbRnqBaa8vDkgmDDFCv-UxDjXrSMhSQwXlkNmzKaKFGphWdj30-e7-mJxswjyAzIzbMPyS) on Machine Learning in the Groundwater domain.
