@@ -14,8 +14,8 @@ Talk to My Digital Twin about Me :)
 <iframe
 	src="https://sunjianxin66-career-conversations.hf.space"
 	frameborder="0"
-	width="850"
-	height="450"
+	width="900"
+	height="500"
 ></iframe>
 
 News
