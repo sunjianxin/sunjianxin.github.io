@@ -14,7 +14,7 @@ Want to know more about me? Talk to my digital twin :)
 <iframe
 	src="https://sunjianxin66-career-conversations.hf.space"
 	frameborder="0"
-	width="500"
+	width="600"
 	height="500"
 ></iframe>
 
