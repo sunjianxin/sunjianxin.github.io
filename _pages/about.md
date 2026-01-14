@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Jianxin Sun is a Research Assistant Professor in the School of Computing, University of Nebraska-Lincoln. He received his Ph.D. degree in computer science from the University of Nebraska-Lincoln in 2024, advised by Professor [Hongfeng Yu](https://cse.unl.edu/~yu/). He obtained his M.S. degree in Electrical and Computer Engineering (ECE) from Purdue University, advised by Professor [Avinash Kak](https://engineering.purdue.edu/kak/). 
-<!--I received my B.S degree from Harbin Institute of Technology.-->
+Jianxin Sun is a Research Assistant Professor in the School of Computing, University of Nebraska-Lincoln. He received his Ph.D. degree in computer science from the University of Nebraska-Lincoln in 2024, advised by Professor [Hongfeng Yu](https://cse.unl.edu/~yu/). He obtained his M.S. degree in Electrical and Computer Engineering (ECE) from Purdue University, advised by Professor [Avinash Kak](https://engineering.purdue.edu/kak/). His research concentrates on **AI-driven scientific data modeling, analysis, and visualization** through high-performance computing. Currently, his research work mainly focuses on sparse encoding, neural rendering, and interactive visualization.
 
-His research concentrates on **AI-driven scientific data modeling, analysis, and visualization** through high-performance computing. Currently, his research work mainly focuses on sparse encoding, neural rendering, and interactive visualization.
+Talk to My Digital Twin about Me :)
+------
+<iframe
+	src="https://sunjianxin66-career-conversations.hf.space"
+	frameborder="0"
+	width="400"
+	height="200"
+></iframe>
 
 News
 ======
@@ -42,12 +48,6 @@ Recent Selected Publications
     </p>
   </div>
 </div>
-<iframe
-	src="https://sunjianxin66-career-conversations.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github.com/sunjianxin/sunjianxin.github.io/blob/master/assets/f_hash_web_small.png?raw=true" alt="Description" style="width: 200px; height: 200px; object-fit: cover;">
