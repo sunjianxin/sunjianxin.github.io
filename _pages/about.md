@@ -9,7 +9,7 @@ redirect_from:
 
 Jianxin Sun is a Research Assistant Professor in the School of Computing, University of Nebraska-Lincoln. He received his Ph.D. degree in computer science from the University of Nebraska-Lincoln in 2024, advised by Professor [Hongfeng Yu](https://cse.unl.edu/~yu/). He obtained his M.S. degree in Electrical and Computer Engineering (ECE) from Purdue University, advised by Professor [Avinash Kak](https://engineering.purdue.edu/kak/). His research concentrates on **AI-driven scientific data modeling, analysis, and visualization** through high-performance computing. Currently, his research work mainly focuses on sparse encoding, neural rendering, and interactive visualization.
 
-Want to know more about me? Please talk to my "digital twin" Ciayn \(Curiosity is all you need\])
+Want to know more about me? Please talk to my "digital twin" Ciayn \(Curiosity is all you need\)
 ------
 <iframe
 	src="https://sunjianxin66-career-conversations.hf.space"
