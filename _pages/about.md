@@ -22,6 +22,7 @@ Want to know more about me? Please talk to my "digital twin":-)
 
 News
 ======
+- Jun 06, 2026: Will serve in the Program Committee for IEEE ICDM 2026.
 - Feb 02, 2026: Will serve in the Program Committee for IEEE VIS 2026.
 - Oct 06, 2025: Our [Importance Mask](https://arxiv.org/abs/2502.06053) paper is accepted by TVCG as the leading author.
 - Sep 12, 2025: I will chair the VIS 2025 full paper session: Algorithms and Workflows. See you in Vienna!
