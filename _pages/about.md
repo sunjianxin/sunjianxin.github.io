@@ -9,7 +9,7 @@ redirect_from:
 
 Jianxin Sun will join the [Computer Science Department](https://www.ceas.uc.edu/academics/departments/computer-science.html) at the [University of Cincinnati](https://www.uc.edu/) as an Assistant Professor in Fall 2026. He received his Ph.D. degree in computer science from the University of Nebraska-Lincoln in 2024, advised by Professor [Hongfeng Yu](https://cse.unl.edu/~yu/). He obtained his M.S. degree in Electrical and Computer Engineering (ECE) from Purdue University, advised by Professor [Avinash Kak](https://engineering.purdue.edu/kak/). His research concentrates on **AI-driven scientific data modeling, analysis, and visualization** through high-performance computing. Currently, his research work mainly focuses on sparse encoding, neural rendering, and interactive visualization.
 
-**I am seeking curious and motivated students for PhD positions in my group. Candidates are encouraged to send CV, transcript(s), and statement of research interests to sunjianxin66 [at] gmail [dot] com.**
+**I am actively recruiting fully funded Ph.D. students to join our lab. Please check the [Join](https://sunjianxin.github.io/join/) page for how to join the lab.**
 
 Want to know more about me? Please talk to my "digital twin":-)
 ------
