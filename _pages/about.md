@@ -22,6 +22,7 @@ Want to know more about me? Please talk to my "digital twin":-)
 
 News
 ======
+- Jul 16, 2026: One paper is accepted by IEEE VIS 2026.
 - Jun 06, 2026: Will serve in the Program Committee for IEEE ICDM 2026.
 - Feb 02, 2026: Will serve in the Program Committee for IEEE VIS 2026.
 - Oct 06, 2025: Our [Importance Mask](https://arxiv.org/abs/2502.06053) paper is accepted by TVCG as the leading author.
