@@ -61,7 +61,7 @@ Recent Selected Publications
     <p style="margin: 0 0 8px 0; font-size: 0.9em;"><strong>Jianxin Sun</strong>, David Lenz, Hongfeng Yu, Tom Peterka</p>
     <p style="margin: 0; font-style: italic; font-size: 0.9em;">IEEE VIS, 2025</p>
     <p style="margin: 0; font-size: 0.9em;">
-      | <a href="https://ieeexplore.ieee.org/abstract/document/10767627" target="_blank">Paper</a> | 
+      | <a href="https://ieeexplore.ieee.org/abstract/document/11261881" target="_blank">Paper</a> | 
       <a href="https://arxiv.org/abs/2507.03836" target="_blank">PDF</a> | 
       <a href="https://www.youtube.com/watch?v=AiN_mFc_Oig&t=275s" target="_blank">Video</a> | 
       <a href="https://github.com/sunjianxin/F-Hash" target="_blank">Code</a> |
