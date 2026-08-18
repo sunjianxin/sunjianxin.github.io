@@ -22,6 +22,7 @@ Want to know more about me? Please talk to my "digital twin":-)
 
 News
 ======
+- Aug 17, 2026: One paper is accepted by Agrosystems, Geosciences & Environment as the leading author.
 - Jul 16, 2026: One paper is accepted by IEEE VIS 2026.
 - Jun 06, 2026: Will serve in the Program Committee for IEEE ICDM 2026.
 - Feb 02, 2026: Will serve in the Program Committee for IEEE VIS 2026.
